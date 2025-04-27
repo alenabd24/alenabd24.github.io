@@ -1,5 +1,6 @@
 title: "Alen Abd Data Science Portfolio"
 description: "A collection of data science projects and analyses"
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Site settings
 repository: "alenabd24/alenabd24.github.io"
