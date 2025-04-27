@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: home
 title: "Home"
+author_profile: true
 ---
 
 # Welcome to my Data Science Portfolio!

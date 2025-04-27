@@ -1,10 +1,13 @@
 ---
-layout: default
+layout: single
 title: "Sample Data Analysis Project"
-description: "An example data analysis project showcasing data cleaning, visualization, and statistical analysis."
+excerpt: "An example data analysis project showcasing data cleaning, visualization, and statistical analysis."
+header:
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_filter: 0.5
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+author_profile: true
 ---
-
-# Sample Data Analysis Project
 
 This is a sample project page. You can add your project content here, including:
 

@@ -1,6 +1,17 @@
 title: "Alen Abd Data Science Portfolio"
 description: "A collection of data science projects and analyses"
 
+# Minimal Mistakes theme settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+
 # Collections
 collections:
   projects:
@@ -12,11 +23,10 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: "default"
-
-# Navigation
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Projects"
-    url: "/projects/"
+      layout: "single"
+      author_profile: true
+      share: true
+      read_time: true
+      comments: false
+      sidebar:
+        nav: "main"

@@ -1,15 +1,13 @@
 ---
-layout: default
+layout: archive
 title: "Projects"
+permalink: /projects/
+author_profile: true
 ---
 
-# My Data Science Projects
-
-Here are my data science projects:
+{% include base_path %}
 
 {% for project in site.projects %}
-## [{{ project.title }}]({{ project.url }})
-{{ project.description }}
-
+  {% include archive-single.html %}
 {% endfor %}
 
