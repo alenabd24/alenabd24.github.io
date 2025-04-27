@@ -1,16 +1,16 @@
 ---
-layout: home
+layout: default
 title: "Home"
 ---
 
-Welcome to my Data Science Portfolio!
+# Welcome to my Data Science Portfolio!
 
 Here you can find a selection of my projects, analyses, and visualizations.
----
-layout: home
-title: "Home"
----
 
-Welcome to my Data Science Portfolio!
+## Featured Projects
 
-Here you can find a selection of my projects, analyses, and visualizations.
+Check out my [projects page](/projects/) to see all my data science work.
+
+## About Me
+
+[Add your brief introduction here]
