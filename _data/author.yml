@@ -1,0 +1,9 @@
+name: "Alen Abd"
+bio: "Data Science Portfolio"
+avatar: "/assets/images/bio-photo.jpg"
+location: "Your Location"
+email: "your.email@example.com"
+links:
+  - label: "GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/alenabd24" 

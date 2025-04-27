@@ -1,8 +1,16 @@
 title: "Alen Abd Data Science Portfolio"
 description: "A collection of data science projects and analyses"
 
+# Site settings
+repository: "alenabd24/alenabd24.github.io"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+
 # Minimal Mistakes theme settings
-theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site navigation
