@@ -1,3 +1,9 @@
+---
+title: "Image Classification CNN"
+layout: single
+author_profile: true
+---
+
 # **Image Classification CNN - Alen Abdrakhamnov**
 
 <div style="font-size: 50px;">
