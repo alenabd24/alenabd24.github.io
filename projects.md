@@ -5,7 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include base_path %}
 
 {% for project in site.projects %}
   {% include archive-single.html %}
