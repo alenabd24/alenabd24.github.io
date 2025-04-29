@@ -26,7 +26,7 @@ nav:
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /:collection/:path/
 
 # Default layout
 defaults:
@@ -40,3 +40,16 @@ defaults:
       comments: false
       sidebar:
         nav: "main"
+
+# Defaults for collections
+defaults:
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: true
+      related: true
